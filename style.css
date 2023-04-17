@@ -16,6 +16,7 @@ html,*{
 }
 
 .todo{
+    text-align: center;
     background-color: #fff;
     width: 100%;
     max-width: 580px;
@@ -27,6 +28,7 @@ html,*{
 }
 
 .todo h2{
+    text-align: center;
     color: #002765;
     display:flex;
     align-items: center;
